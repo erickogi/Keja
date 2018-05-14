@@ -29,7 +29,6 @@ import java.util.List;
 
 public class FragmentKejaList extends Fragment {
     HomesViewModel viewModel;
-
     private List<HomesByCategories> homesByCategories;
     private HomesListBaseAdapter adapter;
     private View view;
